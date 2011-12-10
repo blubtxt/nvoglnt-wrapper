@@ -1,0 +1,3 @@
+
+ This is a Wrapper for the nvoglnt.dll used at Windows NT. 
+ The nvoglnt.dll is the OpenGL ICD for NVIDIA Graphic Cards.
